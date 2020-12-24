@@ -1,0 +1,6 @@
+Keras==2.2.0
+tensorflow-gpu==1.10.0
+scipy==1.5.2
+openCV-python==4.4.0.42
+numpy==1.15.0
+pandas==0.25.1
